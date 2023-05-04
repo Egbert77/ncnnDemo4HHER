@@ -1,0 +1,35 @@
+{
+  "buildFiles": [
+    "D:\\StudioProjects\\ncnnDemo\\app\\src\\main\\jni\\ncnn-20230223-android-vulkan\\x86\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "D:\\StudioProjects\\ncnnDemo\\app\\src\\main\\jni\\ncnn-20230223-android-vulkan\\x86\\lib\\cmake\\glslang\\glslang-targets-release.cmake",
+    "D:\\StudioProjects\\ncnnDemo\\app\\src\\main\\jni\\ncnn-20230223-android-vulkan\\x86\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "D:\\StudioProjects\\ncnnDemo\\app\\src\\main\\jni\\ncnn-20230223-android-vulkan\\x86\\lib\\cmake\\glslang\\glslang-config.cmake",
+    "D:\\StudioProjects\\ncnnDemo\\app\\src\\main\\jni\\ncnn-20230223-android-vulkan\\x86\\lib\\cmake\\glslang\\glslang-config-version.cmake",
+    "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake",
+    "D:\\StudioProjects\\ncnnDemo\\app\\src\\main\\jni\\ncnn-20230223-android-vulkan\\x86\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "D:\\StudioProjects\\ncnnDemo\\app\\src\\main\\jni\\CMakeLists.txt",
+    "D:\\StudioProjects\\ncnnDemo\\app\\src\\main\\jni\\ncnn-20230223-android-vulkan\\x86\\lib\\cmake\\glslang\\glslang-targets.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\StudioProjects\\ncnnDemo\\app\\.cxx\\cmake\\debug\\x86\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\StudioProjects\\ncnnDemo\\app\\.cxx\\cmake\\debug\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "squeezencnn-Debug-x86": {
+      "artifactName": "squeezencnn",
+      "buildCommand": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\StudioProjects\\ncnnDemo\\app\\.cxx\\cmake\\debug\\x86\" squeezencnn",
+      "abi": "x86",
+      "output": "D:\\StudioProjects\\ncnnDemo\\app\\build\\intermediates\\cmake\\debug\\obj\\x86\\libsqueezencnn.so",
+      "runtimeFiles": [
+        "D:\\StudioProjects\\ncnnDemo\\app\\src\\main\\jni\\ncnn-20230223-android-vulkan\\x86\\lib\\libncnn.a",
+        "D:\\StudioProjects\\ncnnDemo\\app\\src\\main\\jni\\ncnn-20230223-android-vulkan\\x86\\lib\\libglslang.a",
+        "D:\\StudioProjects\\ncnnDemo\\app\\src\\main\\jni\\ncnn-20230223-android-vulkan\\x86\\lib\\libSPIRV.a",
+        "D:\\StudioProjects\\ncnnDemo\\app\\src\\main\\jni\\ncnn-20230223-android-vulkan\\x86\\lib\\libMachineIndependent.a",
+        "D:\\StudioProjects\\ncnnDemo\\app\\src\\main\\jni\\ncnn-20230223-android-vulkan\\x86\\lib\\libOGLCompiler.a",
+        "D:\\StudioProjects\\ncnnDemo\\app\\src\\main\\jni\\ncnn-20230223-android-vulkan\\x86\\lib\\libOSDependent.a",
+        "D:\\StudioProjects\\ncnnDemo\\app\\src\\main\\jni\\ncnn-20230223-android-vulkan\\x86\\lib\\libGenericCodeGen.a"
+      ]
+    }
+  }
+}
